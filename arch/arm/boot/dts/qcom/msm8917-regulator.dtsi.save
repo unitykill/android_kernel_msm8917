@@ -553,7 +553,10 @@
 		qcom,cpr-init-voltage-step = <10000>;
 		qcom,cpr-corner-map = <1 2 3 3 3 3 3>;
 		qcom,cpr-corner-frequency-map =
+<<<<<<< HEAD
                                 <1 200000000>,
+=======
+>>>>>>> 951826c5ca52... ARM64: dts UC CPU down to 400MHz for msm8917
                                 <1 400000000>,
 			        <1 533000000>,
 			        <1 800000000>,
